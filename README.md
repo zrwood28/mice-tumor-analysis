@@ -1,4 +1,4 @@
-# matplotlib_challenge
+# mice-tumor-analysis
 Statistical analysis and visualization of drug regimen testing data on mice with tumors.
 
 ## Summary
